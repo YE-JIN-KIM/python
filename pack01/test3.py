@@ -14,7 +14,7 @@ print(t, type(t))
 # p = (1)   # 1 <class 'int'>
 p = (1,)    # 1개일때는 콤마를 같이 줘야 tuple로 인정됨 
 print(p, type(p))
-
+#sss
 
 print("\n\nset -----------------")
 # set type : 순서X, 수정X, *중복 불가*
