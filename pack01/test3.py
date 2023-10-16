@@ -1,4 +1,4 @@
-s# tuple : list와 유사하나 읽기 전용(list 보다 처리 속도가 빠름) - 순서O, 수정X
+# tuple : list와 유사하나 읽기 전용(list 보다 처리 속도가 빠름) - 순서O, 수정X
 #t = ('a', 'b', 'c')
 t = 'a', 'b', 'c'
 print(t, type(t), len(t))
@@ -14,7 +14,7 @@ print(t, type(t))
 # p = (1)   # 1 <class 'int'>
 p = (1,)    # 1개일때는 콤마를 같이 줘야 tuple로 인정됨 
 print(p, type(p))
-#ssssssss
+#sssssssssss
 
 print("\n\nset -----------------")
 # set type : 순서X, 수정X, *중복 불가*
