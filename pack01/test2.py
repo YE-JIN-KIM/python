@@ -9,7 +9,7 @@ s = 'sequence'
 print(len(s))
 print('포함 횟수 :',s.count('e'))
 print('검색 위치 :',s.find('e'), s.find('e', 3), s.rfind('e'))
-# ...
+# ...ddddd
 
 ss = 'mbc'
 print('mbc', ss, id(ss))   # id = Hashcode
